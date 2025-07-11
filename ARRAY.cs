@@ -17,11 +17,11 @@ namespace NET_BD
                 //arr[i] = i;
                 Console.WriteLine(arr[i]);
             }
-            Console.WriteLine("for each loop");
+            Console.WriteLine("for each loop..");
             //element wise
             foreach (int j in arr)
             {
-                Console.WriteLine(arr[i]); ("using for each  loop" + j);
+                Console.WriteLine(arr[i]); ("using for each  loop.." + j);
             }
         }
     }
